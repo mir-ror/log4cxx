@@ -1,0 +1,1 @@
+mvn install:install-file -DlocalRepositoryPath=plugin-repo -DcreateChecksum=true -Dpackaging=jar "-Dfile=C:/Users/tschoening/Documents/Eclipse/Java/Ant Contrib cppTasks/target/cpptasks-1.0b6-SNAPSHOT.jar" -DgroupId=ant-contrib -DartifactId=cpptasks -Dversion=1.0b6
